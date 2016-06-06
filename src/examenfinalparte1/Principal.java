@@ -21,6 +21,9 @@ public class Principal {
         i = met(j, j);
     }
 
+    /**
+     * Este tercer constructor solo inicializa una variable i con valor fijo de -1.
+     */
     public Principal() {
         i = -1;
     }
