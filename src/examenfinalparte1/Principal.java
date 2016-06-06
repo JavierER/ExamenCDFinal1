@@ -13,6 +13,10 @@ public class Principal {
         i = met(j, m);
     }
 
+    /**
+     * Este segundo constructor recoge 1 variable y la mete dentro de una 2 aplicandole el método met(suma) a la 1, pero 2 veces.
+     * @param j 
+     */
     public Principal(int j) {
         i = met(j, j);
     }
