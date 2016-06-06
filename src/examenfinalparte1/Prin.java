@@ -9,12 +9,12 @@ public class Prin {
         int n = ObjDobleVariable.i;
         System.out.println("Es: " + n);
         
-        Principal nm = new Principal(10);
-        int m = nm.i;
+        Principal ObjVariable = new Principal(10);
+        int m = ObjVariable.i;
         System.out.println("Es: " + m);
         
-        Principal mn = new Principal();
-        int nn = mn.i;
+        Principal ObjSinVariable = new Principal();
+        int nn = ObjSinVariable.i;
         System.out.println("Es: " + nn);
     }
 }
