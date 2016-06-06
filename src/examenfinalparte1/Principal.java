@@ -28,6 +28,12 @@ public class Principal {
         i = -1;
     }
 
+    /**
+     * A este método se le dan 2 variable x e x1.
+     * @param x
+     * @param x1
+     * @return devuelve la suma de ambas variables.
+     */
     public int met(int x, int x1) {
         return x + x1;
     }
